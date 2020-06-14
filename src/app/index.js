@@ -1,4 +1,5 @@
 import Photos from "./photos";
+import "../css/styles.css";
 
 const photos=new Photos();
 async function main() {
